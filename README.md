@@ -1,12 +1,12 @@
 How to start the game :
 
 
-1) Download the folder CourselGame 
-1) From the terminal go to the CourselGame folder (cd ??/??/CourselGame) 
-2) to compile the java code and start the game insert make command to your terminal
+1) Download the folder CourselGame .
+2) From the terminal go to the CourselGame folder (cd ??/??/CourselGame) .
+2) to compile the java code and start the game insert make command to your terminal .
 
 
-How to play the game
+How to play the game :
 
 In this game you have carousel with 8 seats red,green  on the left side of the carousel
 there is a seat labeled 'start' ,and a seat labeled finish ,you have an avator who is 
