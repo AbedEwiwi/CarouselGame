@@ -3,7 +3,7 @@ How to start the game :
 
 1) Download the folder CourselGame .
 2) From the terminal go to the CourselGame folder (cd ??/??/CourselGame) .
-2) to compile the java code and start the game insert make command to your terminal .
+3) to compile the java code and start the game insert make command to your terminal .
 
 
 How to play the game :
