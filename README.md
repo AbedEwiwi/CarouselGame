@@ -1,7 +1,7 @@
 How to start the game :
 
 
-1) Download the folder CourselGame .
+1) Download the folder CarouselGame .
 
 2) From the terminal go to the CourselGame folder (cd ??/??/CourselGame) .
 
