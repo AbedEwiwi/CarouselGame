@@ -18,3 +18,5 @@ jump button ,if you click this button the nearest seat to your avator is conside
 this seat is green you will get  10 points and if the seat is red you lose a life point.
 
 when you reach the 'finish' seat ,you get 50 points ,and the carousel increase its rotation speed.
+
+see PDF file for more details.
